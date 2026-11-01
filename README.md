@@ -1,5 +1,7 @@
 # 🏛️ Village Information System & Public E-Services Portal
 
+[`nextjs`](https://github.com/topics/nextjs) • [`typescript`](https://github.com/topics/typescript) • [`prisma`](https://github.com/topics/prisma) • [`tailwind`](https://github.com/topics/tailwind) • [`village-information-system`](https://github.com/topics/village-information-system) • [`public-services`](https://github.com/topics/public-services) • [`recharts`](https://github.com/topics/recharts) • [`mysql`](https://github.com/topics/mysql)
+
 ![Next.js](https://img.shields.io/badge/Next.js-16.3-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-19.2-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
