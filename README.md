@@ -15,6 +15,20 @@
 
 ---
 
+## Tangkapan Layar Aplikasi
+
+<p align="center">
+  <b>Portal Informasi Publik & Profil Desa</b><br>
+  <img src="screenshots/landing-preview.png" alt="Village Portal Landing Preview" width="920">
+</p>
+
+<p align="center">
+  <b>Modul Mandiri Pengajuan Surat Warga</b><br>
+  <img src="screenshots/layanan-preview.png" alt="Citizen E-Service Request Preview" width="920">
+</p>
+
+---
+
 ## ✨ Key System Features
 
 ### 👥 Citizen-Facing Public Portal
